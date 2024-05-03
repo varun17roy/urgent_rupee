@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /urgentrupeeadmin/
+Disallow: /newwebsite/
+Disallow: /oldsite/
+Disallow: /oldsite/
+Disallow: /admin_
+Disallow: /uradmin
+Sitemap: https://www.urgentrupee.com/sitemap.xml
